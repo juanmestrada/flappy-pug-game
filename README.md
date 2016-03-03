@@ -1,1 +1,1 @@
-Practice using the <canvas> element. recreating the popular flappybird game
+Practice using the canvas element. recreating the popular flappybird game
